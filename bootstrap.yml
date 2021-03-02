@@ -1,7 +1,2 @@
-spring:
-  application:
-    name: configserver
-  profiles:
-    active: dev
 atg:
   ticket-url: teste3333
