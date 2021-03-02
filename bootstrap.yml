@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: foo
+  profiles:
+    active: native, dev
+atg:
+  ticket-url: teste3333
