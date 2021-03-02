@@ -1,6 +1,6 @@
 spring:
   application:
-    name: foo
+    name: configserver
   profiles:
     active: dev
 atg:
